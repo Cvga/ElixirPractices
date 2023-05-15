@@ -12,8 +12,8 @@ defmodule Cards do
       :world
 
   """
-  def hello do
-    "Hi Carlos Vega, testing iex.bat, Cards module and hello function!"
+  def create_deck do
+    ["Ace", "Two", "Three"]
   end
 
 end
